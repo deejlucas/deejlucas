@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @deejlucas
-- 👀 I’m interested in time series forecasting with both machine learning and statistical models. I am also interested in experimental design in logistics and the gig economy.
-- 🌱 I’m currently learning to use machine learning models to control variance in experiments.
-- 💞️ I’m looking to collaborate on open source projects that help me do the above.
+- 👀 I’m interested in time series forecasting with both machine learning and statistical models. I am generally interested in applications of machine learning and statistics to logistics and the gig economy.
+- 🌱 I’m currently building logistics simulation tools.
+- 💞️ I’m looking to collaborate on open source projects related to the topics above.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dan-lucas-317b9836/)
 
 <!---
