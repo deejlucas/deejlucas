@@ -3,6 +3,7 @@
 - 🌱 I’m currently looking for a new role as a senior or staff data scientist or possibly as a tech lead or tech lead manager.
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/deejlucas)
+- ❗ My contributions are empty before January 2023 because we were using Phabricator at Twitter. I swear I was writing code in 2022!
 
 <!---
 deejlucas/deejlucas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
